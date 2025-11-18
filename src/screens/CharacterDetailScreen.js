@@ -63,7 +63,7 @@ const CharacterDetailScreen = ({ route }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#67C22E',
   },
   loadingContainer: {
     flex: 1,
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 20,
     alignItems: 'center',
-    backgroundColor: '#fff',
+    backgroundColor: '#67C22E',
   },
   detailImage: {
     width: 200,
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     borderRadius: 100,
     marginBottom: 20,
     borderWidth: 3,
-    borderColor: '#4CAF50'
+    borderColor: '#326B2C'
   },
   detailTitle: {
     fontSize: 24,
